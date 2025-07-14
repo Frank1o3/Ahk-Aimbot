@@ -1,5 +1,4 @@
 ﻿#Requires AutoHotkey v2.0
-#Include Gdip_All.ahk
 
 ; if !A_IsAdmin {
 ;     Run "*RunAs " A_ScriptFullPath
